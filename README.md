@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Currently working on a Sonic Engine.
+
 I'm learning Lua.
+
 My pronouns are he/him (people mistake me for a girl by my voice sometimes).
+
 You can reach me via evan@evanzap.com or via my YouTube channel.
